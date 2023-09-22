@@ -1,4 +1,2 @@
-# pack.traced.network
-this is a small network simulate
-
-https://skillsforall.com/resources/lab-downloads
+# isolinux.txt.bitmaps.load
+load file into screen 0xb8000
